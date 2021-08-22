@@ -30,7 +30,7 @@ The following queries were developed:
 
     By reviewing the entire year, we were able to inform Mr. Avy that while June is the beginning of the warmer season, August appears to be the warmest.  Warm temperatures    continue through mid-October. 
 
-  Precipitation is steady, but light to moderate, throughout the year.  Excluding single-day outliers, January and April appear to experience the most days of rainfall of two to three inches.
+    Precipitation is steady, but light to moderate, throughout the year.  Excluding single-day outliers, January and April appear to experience the most days of rainfall of two to three inches.
 
 4.	User-input queries for temperature and rainfall, so that Mr. Avy could focus on the month of his choosing. 
 
