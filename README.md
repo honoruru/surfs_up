@@ -28,11 +28,13 @@ The following queries were developed:
 
 3.	Scatter plots for temperature and rainfall during the year ended August 23, 2017.  
 
-By reviewing the entire year, we were able to inform Mr. Avy that while June is the beginning of the warmer season, August appears to be the warmest.  Warm temperatures continue through mid-October. 
+    By reviewing the entire year, we were able to inform Mr. Avy that while June is the beginning of the warmer season, August appears to be the warmest.  Warm temperatures    continue through mid-October. 
 
-Precipitation is steady, but light to moderate, throughout the year.  Excluding single-day outliers, January and April appear to experience the most days of rainfall of two to three inches.
+  Precipitation is steady, but light to moderate, throughout the year.  Excluding single-day outliers, January and April appear to experience the most days of rainfall of two to three inches.
 
 4.	User-input queries for temperature and rainfall, so that Mr. Avy could focus on the month of his choosing. 
 
+
 After reviewing the additional information provided by the new queries, it appears the weather on Oahu remains temperate throughout the year.  Measurements of heavy (greater than five inches) rainfall are outliers.  June and December may not be the optimal choices as indicators of either the hottest/coldest or wettest/driest months of the year.  
+
 In our discussions with Mr. Avy, we plan to share this information.  We believe that weather may not be as negative a factor as he believes.  However, we will also recommend that, once we identify potential locations, we analyze the weather data from stations located in those vicinities to ease his anxiety.  
