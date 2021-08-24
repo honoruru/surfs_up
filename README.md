@@ -14,7 +14,7 @@ Upon completing the queries, the following was observed:
 
 2.	The max temperatures for June and December were 85 and 83, respectively.  Great weather for surf and ice cream.
 
-3.	The min temperatures for June and December were 64 and 56, respectively.  A bit cool for ice cream, however, those were very likely nighttime temperatures. While not confirmed, these temperatures were likely recorded at high elevation locations on Oahu (e.g., Wahiawa), and not at locations being consider by Surf n’ Shake. 
+3.	The min temperatures for June and December were 64 and 56, respectively.  A bit cool for ice cream, however, those were very likely nighttime temperatures. While not confirmed, these temperatures were likely recorded at high elevation locations on Oahu (e.g., Wahiawa), and not at locations being considered by Surf n’ Shake. 
 
 ## Summary
 The results were less than informative and uncompelling.  More importantly, the queries did not provide comfort for Mr. Avy’s fear that rainfall would disrupt the business.  
